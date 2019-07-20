@@ -9,46 +9,46 @@ https://www.1and1.com/favicon-generator
 // array of objects for the different projects
 var arr = [
 			{
-				title:"CTA Ridership Analysis", 
-				tech:"C#, SQL", 
-				description:"Program written in C# that utilizes a SQL database that accesses, updates, and displays relevant CTA data.", 
-				repo:"https://github.com/akhan227/Programming-Language-Design-and-Implementation/tree/master/CTA%20Ridership%20Analysis%20-%20part%202", 
+				title:"RESTful Chess Webservice", 
+				tech:"Java", 
+				description:"Dockerized RESTful web microservice using Java Spring Boot to play chess with VAPs", 
+				repo:"https://github.com/ahmednkhan24/Engineering-Distributed-Objects-For-Cloud-Computing/tree/master/Project%203%20-%20Spring%20Boot%20RESTful%20Web%20Service", 
 				page:"#"
 			},	
 			{
-				title:"Sudoku Solver", 
-				tech:"Java", 
-				description:"A team project to play the famous game of Sudoku with user assist functionality.", 
-				repo:"https://github.com/akhan227/Software-Design/tree/master/Sudoku%20Solver", 
+				title:"AI Pacman Classification", 
+				tech:"Python", 
+				description:"A team project to create three classifiers for a Pacman agent.", 
+				repo:"https://github.com/ahmednkhan24/Pacman-Artificial-Intelligence/tree/master/Project%203%20-%20Classification", 
 				page:"#"
 			},
 			{
 				title:"Arduino Smart Clock", 
 				tech:"C++, INO", 
 				description:"A cool alarm clock that has tons of features. Software written, tested, and implemented on the Arduino UNO hardware with 2 other partners.", 
-				repo:"https://github.com/akhan227/Computer-Design/tree/master/Smart-Clock", 
+				repo:"https://github.com/ahmednkhan24/Computer-Design/tree/master/Smart-Clock", 
 				page:"#"
 			},
 			{
 				title:"mySet: C++ Container", 
 				tech:"C++", 
 				description:"My own implementation of the standard set container in C++", 
-				repo:"https://github.com/akhan227/Programming-Language-Design-and-Implementation/tree/master/mySet%20Container%20Implementation", 
+				repo:"https://github.com/ahmednkhan24/Programming-Language-Design-and-Implementation/tree/master/mySet%20Container%20Implementation", 
+				page:"#"
+			},
+			{
+				title:"Crypto Ticker", 
+				tech:"Java", 
+				description:"Semester long group application to track various relevant crypto currency data", 
+				repo:"https://github.com/ahmednkhan24/Crypto-Ticker/tree/master/CodingProject", 
 				page:"#"
 			},
 			{
 				title:"YelpCamp", 
 				tech:"HTML, CSS, JavaScript, NodeJS", 
 				description:"Yelp-like application for campgrounds", 
-				repo:"https://github.com/akhan227/Web-Development-Bootcamp-Projects/tree/master/YelpCamp", 
+				repo:"https://github.com/ahmednkhan24/YelpCamp", 
 				page:"https://frozen-castle-47525.herokuapp.com/"
-			},
-			{
-				title:"MyTransitApp", 
-				tech:"HTML, CSS, JavaScript", 
-				description:"UIC East Campus real-time CTA Bus & Train Tracker", 
-				repo:"https://github.com/akhan227/MyTransitApp-Web", 
-				page:"https://akhan227.github.io/MyTransitApp-Web/index.html"
 			}
 		  ];
 
